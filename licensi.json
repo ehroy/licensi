@@ -1,1 +1,1 @@
-{ pesan : "yahaa mau ngapain" }
+{ code: 200, msg: 'yahaa mau ngapain' }
