@@ -1,3 +1,3 @@
 [
-  { code: 200, msg: 'yahaa mau ngapain', key: "U2FsdGVkX18EJvLtqXl6Clu93qqib/2vobusD4mdeUM=" , mac: "00330-81471-84102-AA263"}
+  { code: 200, msg: 'yahaa mau ngapain', key: "U2FsdGVkX18wcD8FsSjtvc8Xei21XtSF2Vxq4EVZT6Zmv4E/394l/mo8pgzx9LlqU2FsdGVkX1+ZJAiiS3h/aFuHs+JJwQ9/zb6U8QBDoBw4s6c0eJm1O4pUCXSlfe+hU2FsdGVkX1/xndrCQWNdGTV0G2kkpmUEaBQclghqpZK4zbPSuveGGdfez8UbGLWNU2FsdGVkX18NpBBjamdLXkBK4daRu+18UbN+z4TkR4LZbokM59cXWq/uiP2s5e0mU2FsdGVkX1+wNtCfgEBE/dkqWi8Ehx0CPYWDe8Ep8xKRn94XVoOsggJfNacQv1SRU2FsdGVkX19+egFHKKo21zY5hAU6bBFo0VFwKc5JMXsXmjW3LQMlSbYb85gvs9WFU2FsdGVkX1/Cwr2Feewx80F6/lYvv2vKeU10Y2oPp0a791NigavoCaY9N5RF0Ixl" , mac: "00330-81471-84102-AA263"}
 ]
